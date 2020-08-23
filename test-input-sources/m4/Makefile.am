@@ -2,7 +2,7 @@
 #  
 # The project tdosca-tc01-vsimplhw is licensed under the terms of the MIT license
 #  
-# file <m4/Makefile.am> version <#0.1.0#> of project <VSIMPLHW>
+# file <m4/Makefile.am> version <#1.0.0#> of project <VSIMPLHW>
 
 # Install m4 macros in this directory
 m4datadir = $(datadir)/aclocal

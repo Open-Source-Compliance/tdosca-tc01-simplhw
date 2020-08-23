@@ -2,7 +2,7 @@
 #
 # The project VSIMPLHW is licensed under the terms of the MIT license.
 #
-# file <scripts/Makefile.am> version <#0.1.0#> of project <VSIMPLHW>
+# file <scripts/Makefile.am> version <#1.0.0#> of project <VSIMPLHW>
 
 
 bin_SCRIPTS = vsimplhw.sh vsimplhw.sb

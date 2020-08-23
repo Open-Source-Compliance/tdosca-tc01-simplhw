@@ -1,4 +1,4 @@
-# VSIMPLHW / release <#0.1.0#>
+# VSIMPLHW / release <#1.0.0#>
 
 Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG
 

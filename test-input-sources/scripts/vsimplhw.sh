@@ -5,7 +5,7 @@
 # vsimplhw.sh is licensed under the terms of the MIT license.
 # See the file COPYING in the top directory.
 #
-# file <vsimplhw.sh> version <#0.1.0#> of project <VSIMPLHW>
+# file <vsimplhw.sh> version <#1.0.0#> of project <VSIMPLHW>
 
 PWD=`pwd`
 cat << EOF
@@ -29,6 +29,6 @@ fi
 
 cat<< EOF
 So, again:
-hello from vsimplhw.sh release <#0.1.0#>
+hello from vsimplhw.sh release <#1.0.0#>
 ----------------------------------------------------------------------------
 EOF

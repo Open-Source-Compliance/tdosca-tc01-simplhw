@@ -4,7 +4,7 @@
 #  
 # The project tdosca-tc01-vsimplhw is licensed under the terms of the MIT license.
 #  
-# file <reconf> version <#0.1.0#> of project <VSIMPLHW>
+# file <reconf> version <#1.0.0#> of project <VSIMPLHW>
 
 #!/bin/sh
 

@@ -4,11 +4,11 @@
 #  
 # The project VSIMPLHW is licensed under the terms of the MIT license 
 #  
-# file <configure.ac> version <#0.1.0#> of project <VSIMPLHW>
+# file <configure.ac> version <#1.0.0#> of project <VSIMPLHW>
 
 dnl process this file with autoconf to produce a configure script
 dnl (1) -------- general startmacros -------------
-AC_INIT([vsimplhw],[0.1.0])
+AC_INIT([vsimplhw],[1.0.0])
 AM_INIT_AUTOMAKE()
 AM_CONFIG_HEADER(config.h)
 AC_PREFIX_DEFAULT(/usr/local/)

@@ -14,8 +14,8 @@ OLDSTEP=0       	# defines a lowlevel revesion of a release
 OLDLIBAGE=0   	      	# indicates how many of the elder
       	      	      	# library-releases offer the same interface
 
-NEWRELEASE=0
-NEWREVISION=2
+NEWRELEASE=1
+NEWREVISION=0
 NEWSTEP=0
 NEWLIBAGE=0
 
