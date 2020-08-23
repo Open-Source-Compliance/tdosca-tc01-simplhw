@@ -1,0 +1,45 @@
+#!/bin/sh
+#
+# Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG <karsten.reincke@telekom.de>
+#  
+# The project tdosca-tc01-vsimplhw is licensed under the terms of the MIT license.
+#  
+# file <reconf> version <#0.1.0#> of project <VSIMPLHW>
+
+#!/bin/sh
+
+
+TESTDIRS="  /usr/local/gnu/share/aclocal    /usr/local/share/aclocal    /opt/gnome/share/aclocal    /usr/share/aclocal"
+
+ ACLOCAL_PATH="";
+for dir in ${TESTDIRS};
+do
+   if [ -d ${dir} ];
+   then
+     ACLOCAL_PATH="-I ${dir} ${ACLOCAL_PATH}"
+   fi
+done
+
+DELCONF_FILES=`ls config.*`
+DELETE_FILES=" config.cache    acconfig.h    Makefile    Makefile.in    aclocal.m4    configure    ${DELCONF_FILES}"
+for DF in ${DELETE_FILES};
+do
+  echo "deleting ${DF}"
+  find . -name ${DF} -exec rm \{\} \;
+done
+
+find . -type l -exec rm \{\} \;
+
+echo "- libtoolize"
+libtoolize
+
+echo "- aclocal."
+aclocal $ACLOCAL_PATH
+echo "- autoconf."
+autoconf
+echo "- autoheader."
+autoheader
+echo "- automake."
+automake -a
+exit
+
