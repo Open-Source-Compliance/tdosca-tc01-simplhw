@@ -1,8 +1,8 @@
 # Test-Driven Open Source Compliance Automation Test Case No. 1: a Very Simple Hello World
 
-The "Test-Driven Open Source Compliance Automation" is an initiative hosted and driven by the [Open Chain Working Group 'FOSS-CTC'](http://oss-compliance-tooling.org/): *FOSS-CTC* refers to **FOSS-Compliance-Tool-Chain**.
+The "Test-Driven Open Source Compliance Automation" is an initiative hosted and driven by the [Open Chain Reference Tooling Work Group](http://oss-compliance-tooling.org/).
 
-![openchain-working-group-foss-ctc-logo](openchain-working-group-foss-ctc.png)
+![openchain-reference-tooling-work-group-logo.png](openchain-reference-tooling-work-group-logo.png.png)
 
 General information concerning the "TDOSCA" initiative can be found on [https://github.com/Open-Source-Compliance/tdosca](https://github.com/Open-Source-Compliance/tdosca).
 
