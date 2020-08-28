@@ -2,13 +2,13 @@
 #
 # Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG <karsten.reincke@telekom.de>
 #  
-# The project VSIMPLHW is licensed under the terms of the MIT license 
+# The project SIMPLHW is licensed under the terms of the MIT license 
 #  
-# file <configure.ac> version <#1.0.0#> of project <VSIMPLHW>
+# file <configure.ac> version <#1.0.0#> of project <SIMPLHW>
 
 dnl process this file with autoconf to produce a configure script
 dnl (1) -------- general startmacros -------------
-AC_INIT([vsimplhw],[1.0.0])
+AC_INIT([simplhw],[1.0.0])
 AM_INIT_AUTOMAKE()
 AM_CONFIG_HEADER(config.h)
 AC_PREFIX_DEFAULT(/usr/local/)

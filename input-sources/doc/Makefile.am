@@ -1,13 +1,13 @@
 # Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG <karsten.reincke@telekom.de>
 #  
-# The proejct VSIMPLHW is licensed under the terms of the MIT license
+# The proejct SIMPLHW is licensed under the terms of the MIT license
 #  
-# file <doc/Makefile.am> version <#1.0.0#> of project <VSIMPLHW>
+# file <doc/Makefile.am> version <#1.0.0#> of project <SIMPLHW>
 
-VSIMPLHW_helpdir = $(datadir)/doc/vsimplhw/
-VSIMPLHW_help_DATA = vsimplhw.html
-EXTRA_DIST = vsimplhw.html
+SIMPLHW_helpdir = $(datadir)/doc/simplhw/
+SIMPLHW_help_DATA = simplhw.html
+EXTRA_DIST = simplhw.html
 
 doc:
-	pandoc -o vsimplhw.html ../README.md
+	pandoc -o simplhw.html ../README.md
 

@@ -1,8 +1,8 @@
 # Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG <karsten.reincke@telekom.de>
 #  
-# The project VSIMPLHW is distributed under the terms of the MIT license 
+# The project SIMPLHW is distributed under the terms of the MIT license 
 #  
-# file <Makefile.am> version <#1.0.0#> of project <VSIMPLHW>
+# file <Makefile.am> version <#1.0.0#> of project <SIMPLHW>
 
 EXTRA_DIST = reconf configure change-release prepClearRepCommit prj.spec
 SUBDIRS = m4 scripts doc

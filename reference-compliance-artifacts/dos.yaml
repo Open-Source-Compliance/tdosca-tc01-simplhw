@@ -1,10 +1,10 @@
-# The Does (Tasks For Establishing The Open Source Compliance of VSIMPLHW)
+# The Does (Tasks For Establishing The Open Source Compliance of SIMPLHW)
 
-VSIMPL:
+SIMPL:
   - "get the default project license"
-    - repository: https://github.com/Open-Source-Compliance/tdosca-tc01-vsimplhw/tree/master/test-input-sources
+    - repository: https://github.com/Open-Source-Compliance/tdosca-tc01-simplhw/tree/master/test-input-sources
     - status: done
   - "get the file license"
-    - vsimplhw.sb
-    - repository: https://github.com/Open-Source-Compliance/tdosca-tc01-vsimplhw/tree/master/test-input-sources
+    - simplhw.sb
+    - repository: https://github.com/Open-Source-Compliance/tdosca-tc01-simplhw/tree/master/test-input-sources
     - status: done

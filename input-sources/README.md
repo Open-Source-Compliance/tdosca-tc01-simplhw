@@ -1,4 +1,4 @@
-# VSIMPLHW / release <#1.0.0#>
+# SIMPLHW / release <#1.0.0#>
 
 Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG
 
@@ -13,7 +13,7 @@ Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG
 ## 1. Purpose <a id="pur"></a>
 One task of the project [Test-Driven Open Source Compliance Automation](https://github.com/Open-Source-Compliance/tdosca) is to define test cases consisting of program sources and reference compliance artifacts which - added to the program package - would ensure to distribute the open source program compliantly.
 
-The project VSIMPLHW is the software input of the test case no. 1. It is part of the repository *tdosca-tc01-vsimplhw* and is a ***very simple hello world*** program.
+The project SIMPLHW is the software input of the test case no. 1. It is part of the repository *tdosca-tc01-simplhw* and is a ***very simple hello world*** program.
 
 ## 2. Prerequisites <a id="prq"></a>
 * operating system
@@ -23,8 +23,8 @@ The project VSIMPLHW is the software input of the test case no. 1. It is part of
 
 You have tow options to get this test case:
 
-* Clone the respective repository by using the command ``git clone https://github.com/Open-Source-Compliance/tdosca-tc01-vsimplhw``.
-* Download the respective zip file by using the GitHub commands in the [tdosca-tc01-vsimplhw repository](https://github.com/Open-Source-Compliance/tdosca-tc01-vsimplhw).
+* Clone the respective repository by using the command ``git clone https://github.com/Open-Source-Compliance/tdosca-tc01-simplhw``.
+* Download the respective zip file by using the GitHub commands in the [tdosca-tc01-simplhw repository](https://github.com/Open-Source-Compliance/tdosca-tc01-simplhw).
 
 ## 4. Installation <a id="ins"></a>
 To compile and install the program itself, do this:
@@ -37,8 +37,8 @@ To compile and install the program itself, do this:
 
 * In case of any problems, call ``./reconf``  
 ## 5. Usage <a id="use"></a>
-Sinmply call ``vsimplhw.sh``
+Sinmply call ``simplhw.sh``
 
 ## 6. Licensing <a id="lic"></a>
 
-The *test-input* VSIMPLHW of the project *tdosca-tc01-vsimplhw* is licensed under the terms of the MIT license. See the file COPYING in the top directory
+The *test-input* SIMPLHW of the project *tdosca-tc01-simplhw* is licensed under the terms of the MIT license. See the file COPYING in the top directory

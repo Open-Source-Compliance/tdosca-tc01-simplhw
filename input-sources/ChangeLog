@@ -1,7 +1,7 @@
-Project VSIMPLHW / release <#1.0.0#> -- ChangeLog
+Project SIMPLHW / release <#1.0.0#> -- ChangeLog
 Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG
 -------------------------------------------------------
-The project VSIMPLHW is licensed under the terms of 
+The project SIMPLHW is licensed under the terms of 
 the MIT license: Please see the file COPYING for details.
 -------------------------------------------------------
 2020-08-23 : implementing the functionality & generating the health documents

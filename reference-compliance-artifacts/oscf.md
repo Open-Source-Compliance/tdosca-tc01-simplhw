@@ -1,24 +1,24 @@
-# OSCF (Open Source Compliance File) for the project VSIMPLHW
+# OSCF (Open Source Compliance File) for the project SIMPLHW
 
 <!-- if your work is open source software too, treat as part of this list -->
 ## Involved FOSS components / sub components / files:
-*   [VSIMPL](#vsimpl) - **MIT**
-*   [VSIMPL :: vsimplhw.sb](#vsimplhw.sb) - **BSD-2-Clause**
+*   [SIMPL](#simpl) - **MIT**
+*   [SIMPL :: simplhw.sb](#simplhw.sb) - **BSD-2-Clause**
 
 
-<!-- ## VSIMPLHW uses the following third party OSS components: -->
-## Third Party FOSS delivered together with VSIMPLHW:
+<!-- ## SIMPLHW uses the following third party OSS components: -->
+## Third Party FOSS delivered together with SIMPLHW:
 
 NONE
 
-## FOSS parts of VSIMPLHW itself: <a id="vsimpl"></a>
+## FOSS parts of SIMPLHW itself: <a id="simpl"></a>
 
-* project name: **VSIMPLHW**
+* project name: **SIMPLHW**
 * release number: **1.0.0.**
 <!-- * homepage:  * -->
-* repository: **[https://github.com/Open-Source-Compliance/tdosca-tc1-vsimplhw](ttps://github.com/Open-Source-Compliance/tdosca-tc1-vsimplhw)**
+* repository: **[https://github.com/Open-Source-Compliance/tdosca-tc1-simplhw](ttps://github.com/Open-Source-Compliance/tdosca-tc1-simplhw)**
 
-### VSIMPLHW default license:
+### SIMPLHW default license:
 
 * license type: **MIT**
 * license text:
@@ -38,9 +38,9 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### sub component VSIMPL :: vsimplhw.sb <a id="vsimplhw.sb"></a>
+### sub component SIMPL :: simplhw.sb <a id="simplhw.sb"></a>
 
-* Component name: **vsimplhw.sb**
+* Component name: **simplhw.sb**
 * Component release: **1.0.0**
 * License type: **BSD-2-Clause**
 * License text:

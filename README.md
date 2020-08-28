@@ -7,7 +7,7 @@ The "Test-Driven Open Source Compliance Automation" is an initiative hosted and 
 General information concerning the "TDOSCA" initiative can be found on [https://github.com/Open-Source-Compliance/tdosca](https://github.com/Open-Source-Compliance/tdosca).
 
 Each test case of TDOSCA
-* gets its own repository, in this case [https://github.com/Open-Source-Compliance/tdosca-tc01-vsimplhw](https://github.com/Open-Source-Compliance/tdosca-tc01-vsimplhw)
+* gets its own repository, in this case [https://github.com/Open-Source-Compliance/tdosca-tc01-simplhw](https://github.com/Open-Source-Compliance/tdosca-tc01-simplhw)
 * has the same structure:
   - **compliance-traps.md**: *describes the traps / challenges implemented by and in the test case* [used to manually control whether a tested compliance tool really overcomes all difficulties]
   - **input-sources**: *contains all sources to create the distributable (binary package)* [used by the tested tool to create the compliance artifacts]
