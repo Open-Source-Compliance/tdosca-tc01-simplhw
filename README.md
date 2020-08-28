@@ -36,7 +36,7 @@ The test data of this test case (the program sources in ``input-sources``
 
 ## Licensing Statement
 
-c) 2020, Karsten Reincke, Deutsche Telekom AG
+(c) 2020, Karsten Reincke, Deutsche Telekom AG
 
 * The software delivered as content of the test case directory ``input-sources`` is licensed under the licenses the test case uses to challenge the compliance tools. Contributions take place under the same licenses.
 
