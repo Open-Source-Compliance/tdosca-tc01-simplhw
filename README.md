@@ -21,8 +21,8 @@ This test case follows the general pattern of a TDOSCA test case:
   - **bom.csv**: *a list of all differently licensed open source components of a package*
   - **does.yaml**: *a list of open / closed tasks to establish the open source compliance*
   - **donts.yaml**: *a list prohibited actions to use the package compliantly*
-  * **prerequisites.csv**: *a list of preinstalled tools and libs, required by the software but not delivered as part of the software package*
   - **oscf.md**: *the open source compliance file* [fulfills the compliance requirements if combined with the distributed source- or binary package]
+  * **prerequisites.csv**: *a list of preinstalled tools and libs, required by the software but not delivered as part of the software package*
 
 ### Intention
 
