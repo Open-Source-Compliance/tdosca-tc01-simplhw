@@ -3,7 +3,7 @@
 ## General Context
 The "Test-Driven Open Source Compliance Automation" is an initiative initiated by Deutsche Telekom AG and hosted and driven by the [Open Chain Reference Tooling Work Group](http://oss-compliance-tooling.org/).
 
-![openchain-reference-tooling-work-group-logo.png](logo.png)
+![openchain-reference-tooling-work-group-logo.png](img/logo.png)
 
 The project scope statement and further information of ***TDOSCA*** can be found at [https://github.com/Open-Source-Compliance/tdosca](https://github.com/Open-Source-Compliance/tdosca).
 
