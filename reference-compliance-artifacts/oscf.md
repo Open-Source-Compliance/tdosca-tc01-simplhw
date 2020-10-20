@@ -1,7 +1,7 @@
 # **O**pen **S**ource **C**ompliance **F**ile for *SIMPLHW*
 
 <!-- if your work is open source software too, treat as part of this list -->
-## A) Index
+## Index
 * *Third Party FOSS delivered together with SIMPLHW:*
   - NONE
 * *FOSS parts of SIMPLHW itself:*

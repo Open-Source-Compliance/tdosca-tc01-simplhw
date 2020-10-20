@@ -6,3 +6,4 @@ The test case input (= open source software)
 * is licensing the file simplhw.sb under a 'wrong', but well known and often used SPDX identifier BSD-2CL
 * integrates the BSD-2-Clause license text into the file header
 * delivers its default license text in a file named COPYING although this is normally only be done by GNU software
+* the file COPYING contains the text of the MIT license but does not declare to be the MIT license
