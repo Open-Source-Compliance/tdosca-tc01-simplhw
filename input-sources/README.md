@@ -37,7 +37,7 @@ To compile and install the program itself, do this:
 
 * In case of any problems, call ``./reconf``  
 ## 5. Usage <a id="use"></a>
-Sinmply call ``simplhw.sh``
+Simply call ``simplhw.sh``
 
 ## 6. Licensing <a id="lic"></a>
 
