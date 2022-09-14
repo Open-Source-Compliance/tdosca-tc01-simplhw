@@ -1,4 +1,8 @@
-# Test-Driven Open Source Compliance Automation Test Case No. 1: a Simple Hello World
+# Deprecated: TDOSCA-TC01
+
+***The case systematic has been reorganized. Valid cases now have a number >= 10 ...***
+
+TC01 stood for 'Test-Driven Open Source Compliance Automation Test Case No. 1: a Simple Hello World'
 
 ## General Context
 The "Test-Driven Open Source Compliance Automation" is an initiative initiated by Deutsche Telekom AG and hosted and driven by the [Open Chain Reference Tooling Work Group](http://oss-compliance-tooling.org/).
